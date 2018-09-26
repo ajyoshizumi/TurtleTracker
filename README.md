@@ -1,5 +1,5 @@
 # TurtleTracker
 This tool processes tracking data for Sara the turtle
 
-Alexander Yoshizumi
+John Fay
 Fall 2018
